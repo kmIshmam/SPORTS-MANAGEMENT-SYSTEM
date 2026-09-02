@@ -117,7 +117,7 @@ This prototype serves as a functional reference for the Figma design and is not 
 Administrator: Login -> Dashboard -> Tournament Management -> Create Tournament -> Assign Organizer -> Lock Tournament -> Schedule Opening -> Open Tournament
 Organizer: Login -> Dashboard -> Team Management -> Create Team -> Add Players -> Fixtures -> Schedule Match -> Live Match -> Update Score -> End Match -> Publish Result
 Player: Login -> Dashboard -> Available Teams -> Select Team -> Join Team -> My Team -> Tournament -> Fixtures -> Match Details -> Submit Objection
-Viewer: Login -> Dashboard -> Live Matches -> Match Details -> Results -> Standings -> Teams
+Viewer:  Dashboard -> Live Matches -> Match Details -> Results -> Standings -> Teams
 
 8. Technology Stack (Prototype)
 React — component-based user interface
@@ -129,10 +129,16 @@ The production technology stack, including backend services, database, authentic
 8.1 Project Planning
 
 Design and implementation tasks are tracked in planning/figma_trello_board.md, organized into the following categories: Backlog, Design System, Authentication, Administrator, Organizer, Player, Viewer, Shared Functionality, Interface States, Responsive Design, Prototype Flows, and Quality Assurance.
+USED TRELO TO TRACK THE FLOW:
+<img width="1092" height="543" alt="image" src="https://github.com/user-attachments/assets/d53f7584-87e8-4393-bc4d-df22e68ca771" />
+<img width="1112" height="556" alt="image" src="https://github.com/user-attachments/assets/126a5f12-3e6e-4017-8d2f-79acee4e4111" />
+<img width="1122" height="550" alt="image" src="https://github.com/user-attachments/assets/91403d2b-30d5-4148-8c1c-713b5520177c" />
+<img width="1086" height="539" alt="image" src="https://github.com/user-attachments/assets/49d54277-39ad-4858-b831-7c64d458aee1" />
+<img width="1106" height="542" alt="image" src="https://github.com/user-attachments/assets/302875fc-d54f-4d3e-af58-91de07a23ba1" />
+<img width="1438" height="706" alt="image" src="https://github.com/user-attachments/assets/d581b1ed-f1e0-4508-b33b-0f0576896d5b" />
+<img width="1439" height="739" alt="image" src="https://github.com/user-attachments/assets/64b1acc2-fdf5-4b5e-bca1-977c0daf0a9c" />
 
-9. License
 
-This project's license has not yet been specified. Add licensing terms (e.g., MIT, Apache 2.0) prior to public release.
 
 10. Contributing
 
