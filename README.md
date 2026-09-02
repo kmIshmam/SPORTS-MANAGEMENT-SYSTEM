@@ -18,6 +18,20 @@ Viewer	Read-only access to live scores, fixtures, results, and standings.
 <img width="623" height="438" alt="image" src="https://github.com/user-attachments/assets/bd180aee-dff5-425f-a4e2-15716a7ff711" />
 <img width="622" height="448" alt="image" src="https://github.com/user-attachments/assets/6b7fa90a-64d3-4376-b853-439b3d1d88ab" />
 <img width="627" height="445" alt="image" src="https://github.com/user-attachments/assets/f0c1de98-7143-41f1-a945-058720914534" />
+<img width="623" height="437" alt="image" src="https://github.com/user-attachments/assets/19b68d97-faa0-42f3-bedd-c9854d02d05c" />
+<img width="626" height="443" alt="image" src="https://github.com/user-attachments/assets/1a13fbfb-7503-4557-a145-201ce13438f9" />
+<img width="626" height="442" alt="image" src="https://github.com/user-attachments/assets/79507f48-5730-4a5b-a8cb-23f73be5ccc6" />
+<img width="623" height="433" alt="image" src="https://github.com/user-attachments/assets/8ae97597-63c6-460a-938e-ba58347783d0" />
+<img width="624" height="437" alt="image" src="https://github.com/user-attachments/assets/fb6d29db-8cfd-40c4-a93f-cf845547c68f" />
+<img width="1252" height="887" alt="image" src="https://github.com/user-attachments/assets/7b72ae8f-365a-4fa6-935a-f419d39d41a2" />
+<img width="1243" height="889" alt="image" src="https://github.com/user-attachments/assets/661daff9-44a0-4c71-ac82-b5865baff69f" />
+<img width="1248" height="878" alt="image" src="https://github.com/user-attachments/assets/6a9fe747-b4a6-48c9-841c-6a3dc446213f" />
+<img width="1241" height="875" alt="image" src="https://github.com/user-attachments/assets/3f3d0c63-5359-41d3-bd74-48eb58b42277" />
+<img width="1419" height="878" alt="image" src="https://github.com/user-attachments/assets/eb95c959-fc7e-4524-a32f-18b9d7caed4b" />
+<img width="1402" height="829" alt="image" src="https://github.com/user-attachments/assets/a562c472-f093-4b95-b08e-95e58ff80f25" />
+<img width="1417" height="892" alt="image" src="https://github.com/user-attachments/assets/32705751-00d8-473f-aa83-b2969939ee5b" />
+<img width="1407" height="894" alt="image" src="https://github.com/user-attachments/assets/a3d7f842-9d08-4cb9-8394-580d1ecf6a36" />
+<img width="1411" height="881" alt="image" src="https://github.com/user-attachments/assets/14b5ee72-400d-4cc3-8f54-404cc4fae3a0" />
 
 
 
