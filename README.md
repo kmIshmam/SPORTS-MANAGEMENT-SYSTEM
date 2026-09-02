@@ -140,6 +140,6 @@ USED TRELO TO TRACK THE FLOW:
 
 
 
-10. Contributing
+9. Contributing
 
 This project is currently in the design and prototyping phase. Contributions to the design system, screen coverage, or prototype functionality are welcome. Please open an issue describing the proposed change prior to submitting a pull request.# SPORTS-MANAGEMENT-SYSTEM
