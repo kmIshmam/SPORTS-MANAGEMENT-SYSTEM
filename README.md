@@ -32,6 +32,11 @@ Viewer	Read-only access to live scores, fixtures, results, and standings.
 <img width="1417" height="892" alt="image" src="https://github.com/user-attachments/assets/32705751-00d8-473f-aa83-b2969939ee5b" />
 <img width="1407" height="894" alt="image" src="https://github.com/user-attachments/assets/a3d7f842-9d08-4cb9-8394-580d1ecf6a36" />
 <img width="1411" height="881" alt="image" src="https://github.com/user-attachments/assets/14b5ee72-400d-4cc3-8f54-404cc4fae3a0" />
+<img width="1284" height="891" alt="image" src="https://github.com/user-attachments/assets/a8f4f913-73ea-4913-8626-2d5ab89fc72f" />
+<img width="1412" height="880" alt="image" src="https://github.com/user-attachments/assets/7743fa61-004b-4f49-828a-2526336f7479" />
+<img width="1415" height="753" alt="image" src="https://github.com/user-attachments/assets/4bd3f479-5b8d-441d-af7e-8639d24182c5" />
+<img width="1406" height="754" alt="image" src="https://github.com/user-attachments/assets/857b22ed-c0c4-403d-ba59-c2690d485661" />
+<img width="1403" height="749" alt="image" src="https://github.com/user-attachments/assets/3d2f4e99-7816-4337-a879-f849c4258d9d" />
 
 
 
